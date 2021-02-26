@@ -6,5 +6,3 @@ So please do not change the order of the files , code to run is in .
 If you change the textfile.txt place you have to add its path into the program.
 
 I have also added screenshots of the results so you can see the program run successfully.
-
-Hope it will help you.
